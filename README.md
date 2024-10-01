@@ -23,9 +23,3 @@ Please contact Dr. Si Suo email: s.suo@imerial.ac.uk.
 To use the code in this repository, you will need:
 
 - Matlab 2022+
-
-### Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/non-newtonian-flow-porous-media.git
