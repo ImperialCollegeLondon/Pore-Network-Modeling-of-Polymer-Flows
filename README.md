@@ -2,6 +2,8 @@
 
 Welcome to the **Non-Newtonian Flow Modeling in Porous Media** repository! This project is focused on developing efficient and accurate computational methods for simulating the behavior of non-Newtonian fluids in complex porous structures. By incorporating advanced rheological models, we aim to capture the intricate flow dynamics that are crucial in various geological and engineering applications.
 
+Please contact Dr. Si Suo email: s.suo@imerial.ac.uk.
+
 ## Key Features
 
 - **Pore Network Modeling**  
