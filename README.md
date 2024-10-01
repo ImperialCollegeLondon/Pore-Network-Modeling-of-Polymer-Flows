@@ -8,6 +8,7 @@ Please contact Dr. Si Suo email: s.suo@imerial.ac.uk.
 
 - **Pore Network Modeling**  
   Our code implements pore-scale simulations to study fluid flow through interconnected pores. The approach considers both the geometry of the porous medium and the interactions between different fluid phases.
+  For network extraction, please refer to https://github.com/ForoughiSajjad/pnextract.
 
 - **Non-Newtonian Behavior**  
   Unlike Newtonian fluids, which exhibit linear viscosity, non-Newtonian fluids can exhibit shear-thinning, shear-thickening, or viscoelastic behavior. This repository accommodates a range of non-Newtonian constitutive models to better capture these complex fluid dynamics.
