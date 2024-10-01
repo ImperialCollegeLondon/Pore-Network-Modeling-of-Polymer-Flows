@@ -22,8 +22,7 @@ Welcome to the **Non-Newtonian Flow Modeling in Porous Media** repository! This 
 
 To use the code in this repository, you will need:
 
-- Python 3.x
-- Required Python libraries (listed in `requirements.txt`)
+- Matlab 2022+
 
 ### Installation
 
