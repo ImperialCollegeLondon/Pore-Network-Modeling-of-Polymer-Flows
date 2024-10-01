@@ -2,6 +2,7 @@
 clc;clear; close all
 
 outputPath = './Result/';
+mkdir(outputPath)
 load pn.mat
 L = 0.0368; %packing size
 
