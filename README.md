@@ -11,13 +11,10 @@ Please contact Dr. Si Suo email: s.suo@imerial.ac.uk.
   For network extraction, please refer to https://github.com/ForoughiSajjad/pnextract.
 
 - **Non-Newtonian Behavior**  
-  Unlike Newtonian fluids, which exhibit linear viscosity, non-Newtonian fluids can exhibit shear-thinning, shear-thickening, or viscoelastic behavior. This repository accommodates a range of non-Newtonian constitutive models to better capture these complex fluid dynamics.
+  Unlike Newtonian fluids, which exhibit linear viscosity, polymer fluids generally exhibit the shear-thinning behavior. This repository accommodates a range of non-Newtonian constitutive models to better capture these complex fluid dynamics.
 
-- **Transport Properties**  
-  We analyze crucial transport properties such as permeability, tortuosity, and effective diffusivity. These properties are essential for understanding fluid flow and solute transport in porous materials.
-
-- **Code Updates**  
-  Regular updates will be provided as we refine our modeling techniques, optimize code performance, and incorporate additional features.
+- **Virtual porous media**  
+  We use the discrete element method to generate sphere packings, surrogating a wide range of porous media. 
 
 ## Getting Started
 
