@@ -8,7 +8,7 @@ Please contact Dr. Si Suo email: s.suo@imerial.ac.uk.
 
 - **Pore Network Modeling**  
   Our code implements pore-scale simulations to study polymer flow through interconnected pores. The approach considers both the complex geometry of the porous medium and the nonlinear rheology of fluids.
-  For network extraction, please refer to [https://github.com/ForoughiSajjad/pnextract](https://github.com/ImperialCollegeLondon/porescale).
+  For network extraction, please refer to [https://github.com/ImperialCollegeLondon/porescale](https://github.com/ImperialCollegeLondon/porescale).
 
 - **Non-Newtonian Behavior**  
   Unlike Newtonian fluids, which exhibit linear viscosity, polymer fluids generally exhibit the shear-thinning behavior. This repository accommodates a range of non-Newtonian constitutive models to better capture these complex fluid dynamics.
