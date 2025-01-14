@@ -23,3 +23,7 @@ Please contact Dr. Si Suo email: s.suo@imerial.ac.uk.
 To use the code in this repository, you will need:
 
 - Matlab 2022+
+
+## How to Cite
+Si Suo, SAJJAD FOROUGHI, Martin Julian Blunt, et al. Pore-Network Modeling of Polymer Flow in Porous Media. ESS Open Archive . October 15, 2024.
+DOI: 10.22541/essoar.172901249.97021009/v1
