@@ -26,4 +26,4 @@ To use the code in this repository, you will need:
 
 ## How to Cite
 Si Suo, SAJJAD FOROUGHI, Martin Julian Blunt, et al. Pore-Network Modeling of Polymer Flow in Porous Media. ESS Open Archive . October 15, 2024.
-DOI: 10.22541/essoar.172901249.97021009/v1
+DOI: [10.22541/essoar.172901249.97021009/v1](https://essopenarchive.org/users/801581/articles/1231481-pore-network-modeling-of-polymer-flow-in-porous-media)
