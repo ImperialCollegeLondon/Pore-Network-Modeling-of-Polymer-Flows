@@ -25,5 +25,5 @@ To use the code in this repository, you will need:
 - Matlab 2022+
 
 ## How to Cite
-Si Suo, SAJJAD FOROUGHI, Martin Julian Blunt, Catherine O'Sullivan, (2025), Pore-Network Modeling of Polymer Flow in Porous Media. Computers and Geotechnics, 182, 107142.
-DOI: [10.22541/essoar.172901249.97021009/v1](https://essopenarchive.org/users/801581/articles/1231481-pore-network-modeling-of-polymer-flow-in-porous-media)
+Si Suo, Sajjad Foroughi, Martin J. Blunt, Catherine O'Sullivan, (2025), Pore-Network Modeling of Polymer Flow in Porous Media. Computers and Geotechnics, 182, 107142.
+DOI: [https://doi.org/10.1016/j.compgeo.2025.107142](https://doi.org/10.1016/j.compgeo.2025.107142)
