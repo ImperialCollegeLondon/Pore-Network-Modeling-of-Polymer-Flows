@@ -1,0 +1,10 @@
+#Put the dist, GenExtraction and image file into one place.
+
+#run ./GenExtraction -p ./ -n sphere_stacking -s [1000,500,500] -r 30e-6 -d 25
+
+ -p path 
+ -n name of image file
+ -s size of image 
+ -r resolution 
+ -d diameter of bead 
+ 

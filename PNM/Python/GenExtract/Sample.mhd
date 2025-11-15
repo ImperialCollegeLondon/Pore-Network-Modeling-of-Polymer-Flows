@@ -1,0 +1,16 @@
+ObjectType =  Image
+NDims =       3
+ElementType = MET_UCHAR
+ElementByteOrderMSB = False
+HeaderSize = 0
+DimSize =    	500	500	2000
+ElementSize = 	50   50   50 
+Offset =      	0   	0   	0
+
+ElementDataFile = ../sphere_stacking_500_500_2000_pore.raw
+
+DefaultImageFormat = .raw
+
+direction z
+
+pore 0 0
